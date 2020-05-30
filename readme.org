@@ -1,0 +1,26 @@
+* Linguistics Reading
+
+A set of resources for understanding the field of linguistics
+
+** Introductions
+*** [[https://amzn.to/3evY25d][Introducting Linguistics: A Graphical Guide]]
+
+** Formal Grammars
+
+*** Chomsky Schützenberger Hierarchy
+
+**** [[https://chomsky.info/wp-content/uploads/195609-.pdf][Three models for the description of languages]]
+
+*** Combinatory Categorical Grammar
+Surface Structure and Interpretation - Mark Steedman
+The syntactic process: language, speech, communication - Mark Steedman
+
+*** Dot Depth Hierarchy
+
+**** [[https://doi.org/10.1016/0022-0000(78)90049-1][Dot-Depth of Star-Free Events]]
+**** [[https://www.irif.fr/~jep/PDF/DotDepth.pdf][Dot Depth Hierarchy: 45 years later]]
+
+
+*** Mirror Neuron
+**** The Myth of Mirror Neuron - Gregory Hickok
+**** How the Brain Got Language: The Mirror System Hypothesis - Michael Arbib
